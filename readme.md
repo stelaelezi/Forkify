@@ -1,6 +1,6 @@
-Introduction: Forkify is a web-based recipe application using JavaScript, where users can search for recipes, view detailed instructions, and bookmark their favorites. The app interacts with a third-party API.
+Forkify is a web-based recipe application using JavaScript, where users can search for recipes, view detailed instructions, and bookmark their favorites. The app interacts with a third-party API.
 
-Features of Forkify:
+#Features of Forkify:
 1.Search recipes from a wide collection using the Food2Fork API.
 2.View detailed recipes with ingredients and step-by-step instructions.
 3.Bookmark favorite recipes.
@@ -8,3 +8,13 @@ Features of Forkify:
 5.Responsive design that works on both mobile and desktop devices.
 
 Technologies used include HTML, CSS, JavaScript (ES6+) and LocalStorage for saving user bookmarks.
+
+#How to run:
+
+```
+npm run start  -- to locally run the app
+```
+
+```
+npm run build  -- to build the app
+```
